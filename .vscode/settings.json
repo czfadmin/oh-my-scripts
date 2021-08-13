@@ -1,4 +1,4 @@
 {
-	"python.pythonPath": "D:\\Programs\\Python39\\python.exe",
+	"python.pythonPath": "/usr/bin/python",
 	"jupyter.jupyterServerType": "remote",
 }
